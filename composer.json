@@ -1,0 +1,12 @@
+{
+    "name": "vivek/upsc-ai-agent",
+    "description": "Personal AI Agent for UPSC 2026 Preparation",
+    "require": {
+        "anthropic-ai/sdk": "^0.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
